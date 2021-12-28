@@ -56,7 +56,7 @@ Most of the reviews are between 4.0 and 4.25 which is pretty high.
 <img src="https://user-images.githubusercontent.com/85041697/147606099-a80fe160-18a3-4bda-9955-2b35d36a5d8f.png">
 
 5. **Ryotaro Shiba's Books ranking <br>**
-It is very clear that "竜馬がゆく", "燃えよ剣", and "国盗り物語" are popular series.
+It is very clear that "Ryoma Goes His Way"(竜馬がゆく), "Moeyo sword"(燃えよ剣) and "The Story of National Theft"(国盗り物語) are popular series.
 
     <img src="https://user-images.githubusercontent.com/85041697/147606141-8da39e54-4ca6-48ad-957d-59d61e3b7eab.png" width="226">
 
